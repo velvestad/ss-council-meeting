@@ -1,6 +1,8 @@
 # Notes for the meeting
 ***
 *Based a class meeting on 5.12.2025, and an anonymous questionnaire we had this winter. Most of who gave an answer to this was also Swedish students.*
+
+*The percentages used are to reference overall sentiment among the students. Saša brought to attention that only ~52% of students (in December) gave an answer on the survey.*
 ### The course in general
 - Majority feels they are gaining the skills needed for their field of interest.
 - 70% percent feels this course has increased their confidence in their abilities, but the remaining 30% have the opposite feeling.
@@ -50,6 +52,7 @@
 - The possibility is there in some areas, but lacking in others (nothing concrete was specified).
 ***
 ## Student comments from questionnaire
+*These are here for reference, not necessarily points I am going to take up on the meeting*
 - Teaching could be better, but I have received more teaching than anticipated when came to school. Every time got help when needed that. 
 - Would still like to see little more effort towards teaching. 
 - More practical training devices. That is now possible for most parts, but requires proactive mentality from student. 
