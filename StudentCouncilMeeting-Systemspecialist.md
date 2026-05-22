@@ -22,14 +22,12 @@
 - Only 2 students has had a good experience when looking for internship.
 - 40% have had a bad experience, while 20% have not tried yet.
 - 50% feel they don't get the support they need when looking for an internship, while 40% do.
-  ```Larissa
-  Praktikplatser på IT utbildningar? Svårt att få. Har skolan inte kontakter och kan man inte använda dom?
-  ```
-  ```UC
-  Skolan har bredd kontaktnät som vi använder redan. APL plats är också lite elevens eget ansvar.  
-  ```
-  ```Ann-Sofi AF
-  Arbetsförmedlingen har ett stort företagsregister. Man kan också be om tips från dem om företag där man skulle kunna få praktik.
+  ```Meeting-2024
+  Larissa: Praktikplatser på IT utbildningar? Svårt att få. Har skolan inte kontakter och kan man inte använda dom?
+  
+  UC:  Skolan har bredd kontaktnät som vi använder redan. APL plats är också lite elevens eget ansvar.  
+
+  Ann-Sofi AF: Arbetsförmedlingen har ett stort företagsregister. Man kan också be om tips från dem om företag där man skulle kunna få praktik.
   ```
 - More help and possibilities for internship in Norway, for Swedish students.
 - There was wish for it to be a requirement to have an internship ready before starting the studies.
